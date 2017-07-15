@@ -10,10 +10,8 @@ import java.util.Map;
 /**
  * Created by David Lie-Tjauw on 7/14/2017.
  */
-import java.util.HashMap;
-import java.util.Map;
 
-public class BeaconContentCache implements BeaconContentFactory {
+public class BeaconContentCache {
 
     private BeaconContentFactory beaconContentFactory;
 
